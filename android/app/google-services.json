@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "633571567579",
+    "firebase_url": "https://code-talks-3ded0-default-rtdb.firebaseio.com",
+    "project_id": "code-talks-3ded0",
+    "storage_bucket": "code-talks-3ded0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633571567579:android:7d3472d25ee12fe6e9a9fe",
+        "android_client_info": {
+          "package_name": "com.code_talks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQo-FbFje9vug28v_bo2lc0Om26vVH_R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
